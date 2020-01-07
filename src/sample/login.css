@@ -1,0 +1,15 @@
+.body{
+    -fx-background-color: #334;
+}
+.btn{
+    -fx-padding: 5px;
+    -fx-background-color: #222;
+}
+.btn:hover{
+    -fx-opacity: 0.7;
+}
+.input{
+    -fx-background-color: #334;
+    -fx-border-color: white;
+    -fx-text-fill: white;
+}

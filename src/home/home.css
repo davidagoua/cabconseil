@@ -1,0 +1,23 @@
+.body{
+    -fx-background-color: white;
+}
+.header{
+    -fx-background-color: #334;
+}
+.btn{
+    -fx-padding: 5px;
+    -fx-background-color: #222;
+    -fx-border-radius: 0px;
+}
+.btn:hover{
+    -fx-opacity: 0.7;
+}
+.grid-link:hover{
+    -fx-background-color: beige;
+}
+.nav-link:hover{
+    -fx-background-color: #222;
+}
+.nav{
+    -fx-background-color: #334;
+}
